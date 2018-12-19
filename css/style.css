@@ -1006,7 +1006,9 @@ height: 100px;
 width: 100px;
 }
 
-
+.mix col-md-4 design {
+	padding-right: 0px;
+}
 
 /*=================================================================
   Services section
@@ -2010,6 +2012,12 @@ blockquote {
 .form-group:last-child,
 .form-group:last-child input {
   margin: 0;
+}
+
+/* Custom */
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
