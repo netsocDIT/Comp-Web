@@ -274,7 +274,7 @@ a:focus, a:hover {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 10px 0;
 }
 
 @media (max-width: 480px) {
@@ -945,57 +945,14 @@ a:focus, a:hover {
   margin: 0;
 }
 
-/*=================================================================
-  Pricing section
-==================================================================*/
-.price-item {
-  border: 1px solid rgba(236, 239, 241, 0.07);
-  padding-bottom: 30px;
-  margin-bottom: 15px;
-}
-
-.price-title {
-  background-color: #292F36;
-  padding: 30px 0 20px;
-}
-
-.price-title h3 {
-  color: #57cbcc;
-  margin: 0 0 10px;
-  text-transform: uppercase;
-}
-
-.price-title p {
-  font-size: 18px;
-  font-weight: 400;
-}
-
-.price-title .value {
-  color: #57cbcc;
-  font-size: 30px;
-}
-
-.pricing li {
-  padding: 10px 0;
-}
-
-.pricing li:last-child {
-  border-bottom: 1px solid rgba(236, 239, 241, 0.07);
-  margin-bottom: 20px;
-}
-
-.pricing li:nth-child(2n) {
-  background-color: #292F36;
-}
-
-.pricing li .btn {
-  text-transform: uppercase;
-  margin: 20px 0;
-}
 
 /*=================================================================
   Portfolio section
 ==================================================================*/
+.portfolio-items-wrapper .mix {
+  padding: 5px;
+}
+
 .portfolio-filter {
   text-align: center;
 }
@@ -1004,11 +961,19 @@ a:focus, a:hover {
 
 height: 100px;
 width: 100px;
+
 }
 
-.mix col-md-4 design {
-	padding-right: 0px;
+.portfolio-block {
+  position: relative;
 }
+
+.portfolio-block img {
+  width: 100%;
+  height: auto;
+}
+
+
 
 /*=================================================================
   Services section
