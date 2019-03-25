@@ -1,0 +1,69 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image : images/team/arthurfull.jpg
+    name : Arthur Coll
+    designation : ChairPerson
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+
+  - image : images/team/dara.jpg
+    name : Dara Moody
+    designation : Secretary
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+
+
+  - image : images/team/stephen.jpg
+    name : Stephen Pearson
+    designation : Treasurer
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+
+
+  - image : images/team/wiktoria.jpg
+    name : Wiktoria Uramowska
+    designation : Public Relations Officer
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+
+  - image : images/team/peter.jpg
+    name : Peter Keane
+    designation : Health and Safety Officer
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+
+  - image : images/team/becky.jpg
+    name : Becky White
+    designation : Ordinary Committee Member
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+
+  - image : images/team/jason.jpg
+    name : Jason Van Raamsdonk
+    designation : Ordinary Committee Member
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+
+  - image : images/team/huang.jpg
+    name : Hung-Chuan Huang
+    designation : First Year Representative
+    description :
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"

@@ -509,7 +509,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background-image: url("../images/about/about-header.jpg");
+  background-image: url("../img/about/about-header.jpg");
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
@@ -573,20 +573,20 @@ a:focus, a:hover {
 }
 
 .bg-1 {
-  background-image: url("../images/backgrounds/bg-1.jpg");
+  background-image: url("../img/backgrounds/bg-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-2 {
-  background-image: url("../images/backgrounds/bg-2.jpg");
+  background-image: url("../img/backgrounds/bg-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
 
 .hero-area {
-  background-image: url("../images/slider/cover.jpg");
+  background-image: url("../img/slider/cover.jpg");
   background-size: cover;
   height: 100vh;
   position: relative;
@@ -1315,7 +1315,7 @@ width: 100px;
 	Twitter Feed
 ==================================================================*/
 #twitter-feed {
-  background-image: url("../images/parallax/twitter.jpg");
+  background-image: url("../img/parallax/twitter.jpg");
   padding-bottom: 100px;
   padding-top: 80px;
 }
