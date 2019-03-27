@@ -1,4 +1,4 @@
-baseURL = "http://netsoc.dit.ie/bics"
+baseURL = "bics.netsoc.dit.ie"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Computer Society"
