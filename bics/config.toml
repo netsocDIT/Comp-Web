@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://netsoc.dit.ie/bics"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Meghna"
+title = "Computer Society"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -12,45 +12,31 @@ summaryLength = 10
 
 # Menu
 [menu]
-    [[menu.nav]]
-    name = "About Us"
-    URL = "about"
-    weight = 2
+
+		[[menu.nav]]
+		name = "Committee"
+		URL = "our-team"
+		weight = 1
+
+		[[menu.nav]]
+		name = "TimeLine"
+		URL = "timeline"
+		weight = 2
 
     [[menu.nav]]
-    name = "Service"
-    URL = "services"
+    name = "Events"
+    URL = "portfolio"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
+    name = "Social"
+    URL = "footer"
     weight = 4
-
-    [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
-    weight = 5
-
-    [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
-
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
-
-    [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 8
 
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+logo = "images/LogoMainWeb6.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -62,13 +48,13 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/banner.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    heading = "Bic's Award Portfolio"
+    content= ""
     btn = true
     btnText="Explore Us"
-    btnURL="#services"
+    btnURL="#timeline"
 
     # call to action
     [params.cta]
@@ -117,21 +103,5 @@ custom_css = ["css/custom.css"]
         url = "#"
 
         [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "#"
-
-        [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
         url = "#"
