@@ -15,19 +15,26 @@ filterList :
     filterTitle : Other
 
 portfolioItem :
-  - types : sistem
-    image : images/SISTEM.JPG
+  - types : Coder Dojo
+    image : images/Coder2.jpg
     icon : tf-ion-android-search
     URL : #
-    title : SISTEM
-    description : Opening
+    title : Coder Dojo
+    description :
+    
+  - types : Coder Dojo
+    image : images/Coder4.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Coder Dojo
+    description :
 
-  - types : sistem
-    image : images/SISTEM2.JPG
+  - types : Coder Dojo
+    image : images/Coder3.jpg
     icon : tf-ion-android-search
     URL : #
-    title : SISTEM
-    description : SISTEM Team
+    title : Coder Dojo
+    description :
 
   - types : Speakers
     image : images/RiotGames2.jpeg
@@ -42,13 +49,6 @@ portfolioItem :
     URL : #
     title : SISTEM
     description : Early in the Morning Before Anyone Woke Up
-
-  - types : sistem
-    image : images/SISTEM4.JPG
-    icon : tf-ion-android-search
-    URL : #
-    title : SISTEM
-    description :
 
   - types : Speakers
     image : images/PythonBeginners.JPG
