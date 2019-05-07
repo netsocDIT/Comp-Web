@@ -2,75 +2,141 @@ enable : true
 heading : Our
 headingSpan : Works
 filterList :
-  - filterType : photography
-    filterTitle : Photography
-    
-  - filterType : design
-    filterTitle : Design
-    
-  - filterType : development
-    filterTitle : Development
+  - filterType : Speakers
+    filterTitle : Speakers
+
+  - filterType : Workshops
+    filterTitle : Workshops
+
+  - filterType : sistem
+    filterTitle : SISTEM
+
+  - filterType : Other
+    filterTitle : Other
 
 portfolioItem :
-  - types : design
-    image : images/portfolio/portfolio-1.jpg
+  - types : Coder Dojo
+    image : images/portfolio/Coder4.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : development
-    image : images/portfolio/portfolio-2.jpg
+    title : Coder Dojo
+    description :
+
+  - types : Coder Dojo
+    image : images/portfolio/Coder4.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Sound system
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : design, development
-    image : images/portfolio/portfolio-3.jpg
+    title : Coder Dojo
+    description :
+
+  - types : Coder Dojo
+    image : images/portfolio/Coder3.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Clock Product
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : photography, development
-    image : images/portfolio/portfolio-4.jpg
+    title : Coder Dojo
+    description :
+
+  - types : Speakers
+    image : images/portfolio/RiotGames2.jpeg
     icon : tf-ion-android-search
     URL : #
-    title : Bottol Label
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : design
-    image : images/portfolio/portfolio-5.jpg
+    title : RIOT Games
+    description : RIOT Games Talk Hosted by Tom Shaw
+
+  - types : sistem
+    image : images/portfolio/SISTEM3.JPG
     icon : tf-ion-android-search
     URL : #
-    title : Shopping Bag
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : photography
-    image : images/portfolio/portfolio-6.jpg
+    title : SISTEM
+    description : Early in the Morning Before Anyone Woke Up
+
+  - types : Speakers
+    image : images/portfolio/PythonBeginners.JPG
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : development
-    image : images/portfolio/portfolio-7.jpg
+    title : Python Beginners
+    description : Python Beginners Workshop Hosted by Damian Gordon
+
+  - types : sistem
+    image : images/portfolio/SISTEM5.JPG
     icon : tf-ion-android-search
     URL : #
-    title : Business Card
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : design, development
-    image : images/portfolio/portfolio-8.jpg
+    title : Google Code Workshop
+    description :
+
+  - types : sistem
+    image : images/portfolio/SISTEM6.JPG
     icon : tf-ion-android-search
     URL : #
-    title : Stationary Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : design, photography
-    image : images/portfolio/portfolio-2.jpg
+    title : SISTEM
+    description :
+
+  - types : Speakers
+    image : images/portfolio/SISTEM7.JPG
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : SISTEM
+    description :
+
+  - types : Speakers
+    image : images/portfolio/RiotGames.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : RIOT Games
+    description : RIOT Games Talk Hosted by Tom Shaw
+
+  - types : Speakers
+    image : images/portfolio/PythonBeginner2.JPG
+    icon : tf-ion-android-search
+    URL : #
+    title : Python Beginner Workshop
+    description :
+
+  - types : Other
+    image : images/portfolio/EGM.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : EGM
+    description :
+
+  - types : Workshops
+    image : images/portfolio/KotlinWorkshop.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Kotlin Workshop
+    description :
+
+  - types : Workshops
+    image : images/portfolio/ProgrammingGenerativeArt.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Programming Generative Art With Unity Workshop
+    description :
+
+  - types : Other
+    image : images/portfolio/Workshop.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Picture Of Our New Workshop
+    description :
+
+  - types : Other
+    image : images/portfolio/Signups.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Signups
+    description :
+
+  - types : Other
+    image : images/portfolio/EGM2.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : EGM
+    description :
+
+  - types : Workshops
+    image : images/portfolio/CareersWorkshop.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Career Workshop
+    description :
