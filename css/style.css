@@ -586,7 +586,7 @@ a:focus, a:hover {
 }
 
 .hero-area {
-  background-image: url("../img/slider/cover.jpg");
+  background-image: url("../img/cover.jpg.webp");
   background-size: cover;
   height: 100vh;
   position: relative;
@@ -1600,129 +1600,6 @@ aside.widget {
   color: #fff;
 }
 
-/*=================================================================
-	Single Blog Page
-==================================================================*/
-.single-blog {
-  background-color: #fff;
-  margin-bottom: 50px;
-  padding: 20px;
-}
-
-blockquote {
-  border-left: 5px solid #6cb670;
-  font-style: italic;
-  line-height: 22px;
-  margin: 20px 0;
-}
-
-.next-prev {
-  border-bottom: 1px solid #4e595f;
-  border-top: 1px solid #4e595f;
-  margin: 20px 0;
-  padding: 15px 0 10px;
-}
-
-.next-prev a:hover {
-  color: #6CB670;
-}
-
-.prev-post i {
-  float: left;
-  margin-right: 10px;
-  margin-top: -4px;
-}
-
-.next-post i {
-  float: right;
-  margin-left: 10px;
-  margin-top: -3px;
-}
-
-.post-author {
-  margin-right: 20px;
-}
-
-.post-author > img {
-  border: 1px solid #4e595f;
-  max-width: 120px;
-  padding: 5px;
-  width: 100%;
-}
-
-.comment-reply-form > h3,
-.author-about > h4,
-.comments > h4 {
-  border-bottom: 1px solid #4e595f;
-  margin-bottom: 15px;
-  margin-top: 0;
-  padding-bottom: 10px;
-  position: relative;
-}
-
-.author-bio h5 {
-  display: inline-block;
-}
-
-.post-item .comments-section {
-  margin-top: 35px;
-}
-
-.comment-list ul {
-  margin-top: 20px;
-}
-
-.comment-list li {
-  margin-bottom: 20px;
-}
-
-.comment-wrap {
-  border: 1px solid #4e595f;
-  border-radius: 1px;
-  margin-left: 20px;
-  padding: 10px;
-  position: relative;
-}
-
-.comment-wrap .author-avatar {
-  margin-left: -25px;
-  margin-right: 20px;
-}
-
-.author-comment {
-  margin-bottom: 15px;
-  overflow: hidden;
-}
-
-.author-comment cite a:hover, .replay:hover {
-  color: #6CB670;
-  text-decoration: underline;
-}
-
-.author-comment cite {
-  margin-bottom: 2px;
-  padding-top: 4px;
-}
-
-.comment-content {
-  margin-left: 45px;
-}
-
-.comment-list ul li {
-  padding-left: 25px;
-}
-
-.comment-reply-form {
-  margin-top: 80px;
-}
-
-#comment-form {
-  margin-top: 35px;
-}
-
-#comment-form .form-control:hover {
-  border-color: #6CB670;
-}
 
 .form-group:last-child,
 .form-group:last-child input {
